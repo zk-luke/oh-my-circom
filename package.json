@@ -1,0 +1,28 @@
+{
+  "name": "oh-my-circom",
+  "main": "src/main.js",
+  "version": "0.0.1",
+  "description": "Javascript test case work with iden3/circomlib and iden3/circomlibjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zk-luke/oh-my-circom.git"
+  },
+  "keywords": [
+    "circom",
+    "circomlib",
+    "iden3",
+    "circomlibjs"
+  ],
+  "author": "luke yu",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "circom_tester": "^0.0.20",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "ffjavascript": "^0.2.62",
+    "mocha": "^10.2.0"
+  }
+}
